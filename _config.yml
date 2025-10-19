@@ -2,24 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-# Navigaton
-# -----------------------------------------------------------------------------
-
-navigation:
-  header:
-    - title: Projects
-      url: /projects/
-    - title: Portfolio
-      url: /portfolio/
-    - title: Blog
-      url: /blog/
-    - title: CV
-      url: /cv/ # Ou /resume/, ou /about/, dependendo do nome do seu arquivo
-
-  footer:
-    - title: GitHub
-      url: https://github.com/chiquetom
-
 title: Mateus Chiqueto | Data Scientist & Researcher
 first_name: Mateus
 middle_name: Chiqueto
